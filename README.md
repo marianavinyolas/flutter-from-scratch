@@ -1,4 +1,4 @@
-# musicfy
+# marianfy
 
 A new Flutter project.
 
